@@ -1,4 +1,4 @@
-# Kavish Muthum
+# Hi, I'm Kavish!
 
 **CS/Math @ UT Austin** | Data/Infra Engineer 
 
