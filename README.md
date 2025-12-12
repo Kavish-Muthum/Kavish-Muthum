@@ -3,7 +3,6 @@
 **CS/Math @ UT Austin** | Data/Infra Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavish--muthum-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kavish-muthum/)
-[![Email](https://img.shields.io/badge/Email-kavishmu%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kavishmu@gmail.com)
 
 Building scalable cloud infrastructure and researching energy-efficient blockchain systems. Former Infrastructure/Data Engineer Intern @ State Farm.
 
