@@ -1,6 +1,6 @@
 # Kavish Muthum
 
-**CS/Math @ UT Austin** | Data/Software/Infrastructure Engineer
+**CS/Math @ UT Austin** | Data/Infra Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavish--muthum-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kavish-muthum/)
 [![Email](https://img.shields.io/badge/Email-kavishmu%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kavishmu@gmail.com)
@@ -15,36 +15,50 @@ Building scalable cloud infrastructure and researching energy-efficient blockcha
 - Implemented Terraform IaC and CI/CD pipelines reducing deployments by 40%
 - Analyzed millions of AWS records for infrastructure optimization
 
-## 🔬 Research
+## 🔬 Recent Research
 
-**[Hardware Optimizations for Energy Efficiency of Cryptocurrencies](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2)** (2025)
+**[Hardware Optimizations for Energy Efficiency of Cryptocurrencies](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2/blob/initial-benchmark/annotated-Hardware_Optimizations_for_Energy_Efficiency_of_Cryptocurrencies-2.pdf)** (2025)
 
 Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and FPGA architectures. Found GPU acceleration achieves 94-99% energy savings for parallelizable workloads, ARM CPUs use 23-35% less energy than x86, and FPGAs offer 74% additional savings for ZK proofs.
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-**Cloud & Infrastructure:** AWS (Glue, Lambda, S3, DynamoDB, Athena), Terraform, CI/CD
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Languages:** Python, Java, JavaScript, SQL, MATLAB
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**Certifications:** AWS Solutions Architect Associate, Terraform Associate, AWS Cloud Practitioner
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📊 Featured Projects
+**AWS Services:** Glue, Lambda, S3, DynamoDB, Athena, API Gateway, CloudWatch, Secrets Manager
 
-### [Blockchain Consensus Benchmarking](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2)
-Comprehensive performance and energy efficiency analysis of PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and FPGA architectures using AWS EC2. Demonstrates 94-99% energy savings through optimal hardware-algorithm pairings.
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
-**Tech Stack:** Python, CUDA, AWS EC2 (c7g.2xlarge, c6i.2xlarge, g4dn.xlarge), CloudWatch
+### Certifications
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp_Certified-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### [Prediction Market Calibration Analysis](https://github.com/Kavish-Muthum/Prediction-Market-Calibration-Analysis-with-Brier)
-Interactive Bokeh dashboard for evaluating Kalshi prediction market calibration using Brier and Skill scores. Analyzes intraday temperature prediction markets across multiple cities with real-time API integration.
+## 📊 Projects
 
-**Tech Stack:** Python, Bokeh, Statistical Analysis, API Integration
+**[Blockchain Consensus Benchmarking](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2)** - Performance analysis of PoW/PoS/BFT/ZK algorithms across hardware architectures
 
-## 📫 Let's Connect
-
-I'm always interested in discussing blockchain technology, cloud infrastructure, quantitative finance, or computational research. Feel free to reach out!
-
-- 📧 Email: kavishmu@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/kavish-muthum](https://www.linkedin.com/in/kavish-muthum/)
-- 📍 Location: Austin, TX
+**[Prediction Market Calibration](https://github.com/Kavish-Muthum/Prediction-Market-Calibration-Analysis-with-Brier)** - Interactive dashboard evaluating Kalshi market accuracy using Brier scores
