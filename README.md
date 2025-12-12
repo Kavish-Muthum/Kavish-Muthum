@@ -62,14 +62,22 @@ Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and
 
 ## 🎓 Certifications
 
-[<img src="https://raw.githubusercontent.com/loftwah/aws-icons-svg/main/64/Arch_AWS-Certified-Solutions-Architect-Associate_64.svg" width="50"/>  
-AWS Solutions Architect – Associate](https://www.credly.com/badges/f6e0f454-3809-4b1d-8493-7bc630e362a2/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/f6e0f454-3809-4b1d-8493-7bc630e362a2/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/ac5e9557-8ba2-4b9d-8660-a819f6e5a537/public_url">
+    <img src="https://images.credly.com/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" width="60" style="background:white; padding:8px; border-radius:10px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4bf81291-2902-4c88-a5d7-b5c37952f219/public_url">
+    <img src="https://miro.medium.com/1*Y3bC4jiMTUj0e44fs1UQBQ.png" width="60" />
+  </a>
+</p>
 
-[<img src="https://raw.githubusercontent.com/loftwah/aws-icons-svg/main/64/Arch_AWS-Certified-Cloud-Practitioner_64.svg" width="50"/>  
-AWS Cloud Practitioner](https://www.credly.com/badges/4bf81291-2902-4c88-a5d7-b5c37952f219/public_url)
 
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" width="40"/>  
-Terraform Associate](https://www.credly.com/badges/ac5e9557-8ba2-4b9d-8660-a819f6e5a537/public_url)
+
 
 
 ## 📊 Projects
