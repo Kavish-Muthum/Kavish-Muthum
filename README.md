@@ -60,10 +60,17 @@ Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
-### Certifications
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/HashiCorp_Certified-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🎓 Certifications
+
+[<img src="https://raw.githubusercontent.com/loftwah/aws-icons-svg/main/64/Arch_AWS-Certified-Solutions-Architect-Associate_64.svg" width="50"/>  
+AWS Solutions Architect – Associate](https://www.credly.com/badges/f6e0f454-3809-4b1d-8493-7bc630e362a2/public_url)
+
+[<img src="https://raw.githubusercontent.com/loftwah/aws-icons-svg/main/64/Arch_AWS-Certified-Cloud-Practitioner_64.svg" width="50"/>  
+AWS Cloud Practitioner](https://www.credly.com/badges/4bf81291-2902-4c88-a5d7-b5c37952f219/public_url)
+
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" width="40"/>  
+Terraform Associate](https://www.credly.com/badges/ac5e9557-8ba2-4b9d-8660-a819f6e5a537/public_url)
+
 
 ## 📊 Projects
 
