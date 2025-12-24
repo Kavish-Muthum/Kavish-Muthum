@@ -12,7 +12,7 @@ CS/Math student at UT Austin building algorithmic trading systems and financial 
 
 <br clear="left"/>
 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/state-farm-icon-logo.png" width="30" align="left" style="margin-right: 0px;"/> **Infrastructure/Data Engineer Intern @ State Farm** (2023-2025)
+<img src="https://cdn.freebiesupply.com/logos/large/2x/state-farm-icon-logo.png" width="30" align="left" style="margin-right: 0px;"/> **Infrastructure/Data/Software Engineer Intern @ State Farm** (2023-2025)
 - Built AWS Glue ETL pipelines reducing policy validation time by 70%
 - Architected Lambda-based API service cutting deployment times by 50%
 - Implemented Terraform IaC and CI/CD pipelines reducing deployments by 40%
