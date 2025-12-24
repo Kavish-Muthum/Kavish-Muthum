@@ -8,11 +8,11 @@ CS/Math student at UT Austin building algorithmic trading systems and financial 
 
 ## 💼 Experience
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="30" align="left" style="margin-right: 10px;"/> **[Incoming] Data Engineer Intern - Meta** (2026)
+<img src="https://www.designstub.com/png-resources/wp-content/uploads/2023/03/meta-logo.png" width="30" align="left" style="vertical-align: middle; margin-right: 0px;"/> **[Incoming] Data Engineer Intern - Meta** (2026)
 
 <br clear="left"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/State_Farm_logo.svg" width="30" align="left" style="margin-right: 10px;"/> **Infrastructure/Data Engineer Intern @ State Farm** (2023-2025)
+<img src="https://cdn.freebiesupply.com/logos/large/2x/state-farm-icon-logo.png" width="30" align="left" style="margin-right: 0px;"/> **Infrastructure/Data Engineer Intern @ State Farm** (2023-2025)
 - Built AWS Glue ETL pipelines reducing policy validation time by 70%
 - Architected Lambda-based API service cutting deployment times by 50%
 - Implemented Terraform IaC and CI/CD pipelines reducing deployments by 40%
