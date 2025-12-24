@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavish--muthum-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kavish-muthum/)
 
-CS/Math student at UT Austin building algorithmic trading systems and financial software. Passionate about quantitative finance, market making, and prediction market strategies (Kalshi, Polymarket). Full-stack developer skilled in Python, AWS infrastructure, and data engineering. 
+CS/Math student at UT Austin building algorithmic trading systems and financial software. Passionate about quantitative finance, market making, and prediction market strategies (Kalshi, Polymarket). Backend developer skilled in Python, AWS infrastructure, and data engineering. 
 
 ## 💼 Experience
 
