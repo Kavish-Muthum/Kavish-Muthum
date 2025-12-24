@@ -8,6 +8,8 @@ CS/Math student at UT Austin building algorithmic trading systems and financial 
 
 ## 💼 Experience
 
+**Incoming Data Engineer Intern - Meta** (2026)
+
 **Infrastructure/Data Engineer Intern @ State Farm** (2023-2025)
 - Built AWS Glue ETL pipelines reducing policy validation time by 70%
 - Architected Lambda-based API service cutting deployment times by 50%
