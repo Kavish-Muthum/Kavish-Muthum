@@ -8,7 +8,7 @@ CS/Math student at UT Austin building algorithmic trading systems and financial 
 
 ## 💼 Experience
 
-<img src="https://www.designstub.com/png-resources/wp-content/uploads/2023/03/meta-logo.png" width="30" align="left" style="vertical-align: middle; margin-right: 0px;"/> **[Incoming] Data Engineer Intern - Meta** (2026)
+<img src="https://www.designstub.com/png-resources/wp-content/uploads/2023/03/meta-logo.png" width="30" align="left" style="vertical-align: middle; margin-right: 0px;"/> **[Incoming] Data Engineer Intern @ Meta** (2026)
 
 <br clear="left"/>
 
