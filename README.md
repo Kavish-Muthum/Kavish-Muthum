@@ -6,18 +6,6 @@
 
 CS/Math student at UT Austin building algorithmic trading systems and financial software. Passionate about quantitative finance, market making, and prediction market strategies (Kalshi, Polymarket). Backend developer skilled in Python, AWS infrastructure, and data engineering. 
 
-## 💼 Experience
-
-<img src="https://www.designstub.com/png-resources/wp-content/uploads/2023/03/meta-logo.png" width="30" align="left" style="vertical-align: middle; margin-right: 0px;"/> **[Incoming] Data Engineer Intern @ Meta** (2026)
-
-<br clear="left"/>
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/state-farm-icon-logo.png" width="30" align="left" style="margin-right: 0px;"/> **Infrastructure/Data/Software Engineer Intern @ State Farm** (2023-2025)
-- Built AWS Glue ETL pipelines reducing policy validation time
-- Architected Lambda-based API service cutting deployment times
-- Implemented Terraform IaC and CI/CD pipelines reducing deployments
-- Analyzed millions of AWS records for infrastructure optimization
-
 ## 🔬 Recent Research
 
 **[Hardware Optimizations for Energy Efficiency of Cryptocurrencies](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2/blob/initial-benchmark/annotated-Hardware_Optimizations_for_Energy_Efficiency_of_Cryptocurrencies-2.pdf)** (2025)
