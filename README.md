@@ -6,12 +6,6 @@
 
 CS/Math student at UT Austin building algorithmic trading systems and financial software. Passionate about quantitative finance, market making, and prediction market strategies (Kalshi, Polymarket). Backend developer skilled in Python, AWS infrastructure, and data engineering. 
 
-## 🔬 Recent Research
-
-**[Hardware Optimizations for Energy Efficiency of Cryptocurrencies](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2/blob/initial-benchmark/annotated-Hardware_Optimizations_for_Energy_Efficiency_of_Cryptocurrencies-2.pdf)** (2025)
-
-Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and FPGA architectures. Found GPU acceleration achieves 94-99% energy savings for parallelizable workloads, ARM CPUs use 23-35% less energy than x86, and FPGAs offer 74% additional savings for ZK proofs.
-
 ## 🛠️ Skills & Technologies
 
 ### Languages
@@ -57,9 +51,11 @@ Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and
   </a>
 </p>
 
+## 🔬 Recent Research
 
+**[Hardware Optimizations for Energy Efficiency of Cryptocurrencies](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2/blob/initial-benchmark/annotated-Hardware_Optimizations_for_Energy_Efficiency_of_Cryptocurrencies-2.pdf)** (2025)
 
-
+Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and FPGA architectures. Found GPU acceleration achieves 94-99% energy savings for parallelizable workloads, ARM CPUs use 23-35% less energy than x86, and FPGAs offer 74% additional savings for ZK proofs.
 
 ## 📊 Projects
 
