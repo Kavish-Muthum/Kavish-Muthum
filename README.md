@@ -57,8 +57,6 @@ Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and
 
 ## 📊 Projects
 
-**[Blockchain Consensus Benchmarking](https://github.com/Kavish-Muthum/Blockchain-Consensus-Benchmarking-on-Low-Cost-AWS-EC2)** - Performance analysis of PoW/PoS/BFT/ZK algorithms across hardware architectures
-
 **[Prediction Market Calibration](https://github.com/Kavish-Muthum/Prediction-Market-Calibration-Analysis-with-Brier)** - Interactive dashboard evaluating Kalshi market accuracy using Brier scores
 
 ---
