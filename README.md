@@ -35,22 +35,6 @@ CS/Math student at UT Austin building algorithmic trading systems and financial 
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
-## 🎓 Certifications
-
-<p align="left">
-  <a href="">
-    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" width="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/f6e0f454-3809-4b1d-8493-7bc630e362a2/public_url ">
-    <img src="https://images.credly.com/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" width="60" style="background:white; padding:8px; border-radius:10px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="">
-    <img src="https://miro.medium.com/1*Y3bC4jiMTUj0e44fs1UQBQ.png" width="60" />
-  </a>
-</p>
-
 ## 🔬 Recent Research
 
 Benchmarked PoW, PoS, BFT, and ZK consensus algorithms across ARM, x86, GPU, and FPGA architectures. Found GPU acceleration achieves 94-99% energy savings for parallelizable workloads, ARM CPUs use 23-35% less energy than x86, and FPGAs offer 74% additional savings for ZK proofs.
